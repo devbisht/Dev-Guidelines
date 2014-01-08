@@ -1,4 +1,3 @@
-
 1. Admin Menu
 https://drupal.org/project/admin_menu
 
@@ -58,6 +57,27 @@ https://drupal.org/project/nodequeue
 
 20. print
 https://drupal.org/project/print
+
+21. quicktabs
+https://drupal.org/project/quicktabs
+
+22. recaptcha (keep away your site from spams)
+https://drupal.org/project/recaptcha
+
+23. references (relationship of one content with another)
+https://drupal.org/project/references
+
+24. rules 
+https://drupal.org/project/rules
+
+25. special_menu_items ( show hide menu items based on user roles)
+https://drupal.org/project/special_menu_items
+
+26. block_class (Dont pick block id instead provide class from the backend and re-use same class)
+https://drupal.org/project/block_class
+
+27. devel_themer (This will provide theme function name which can be altered)
+https://drupal.org/project/devel_themer
 
 
 
