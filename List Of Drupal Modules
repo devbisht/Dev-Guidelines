@@ -1,0 +1,64 @@
+
+1. Admin Menu
+https://drupal.org/project/admin_menu
+
+2. Backup Migrate
+https://drupal.org/project/backup_migrate
+
+3. wysiwyg (install this as wrapper and use any editor with this)
+https://drupal.org/project/wysiwyg
+
+4. Webform
+https://drupal.org/project/webform
+
+5. Views
+https://drupal.org/project/views
+
+6. token
+https://drupal.org/project/token
+
+7. pathauto
+https://drupal.org/project/pathauto
+
+8. Nice Menus (If project will have dropdown menus)
+https://drupal.org/project/nice_menus
+
+9. libraries
+https://drupal.org/project/libraries
+
+10. devel (for testing and generating dummy content)
+https://drupal.org/project/devel
+
+11. date
+https://drupal.org/project/date
+
+12. context
+https://drupal.org/project/context
+
+13. breadcrumbs_by_path (very useful if you have complex breadcrumb)
+https://drupal.org/project/breadcrumbs_by_path
+
+14. apachesolr (very useful for huge search driven site)
+https://drupal.org/project/apachesolr
+
+15. coder (check your custom module code standard)
+https://drupal.org/project/coder
+
+16. autologout (to be more secure set the time after user will auto logout)
+https://drupal.org/project/autologout
+
+17. metatag (provide seo friendly content)
+https://drupal.org/project/metatag
+
+18. module_filter (easy to manage long list of module, its for backend)
+https://drupal.org/project/module_filter
+
+19. nodequeue
+https://drupal.org/project/nodequeue
+
+20. print
+https://drupal.org/project/print
+
+
+
+
